@@ -10,6 +10,7 @@ namespace Calculator
             {
                 Console.WriteLine("Podaj 1 liczbę:");
 
+
                 var number1 = GetInput();
 
                 Console.WriteLine("Jaką operacje chcesz wykonać? Możliwe operacje to: '+', '-', '/', '*'.");
